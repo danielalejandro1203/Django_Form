@@ -1,6 +1,18 @@
 
 # 📋 Job Application Form – Django
 
+![Python](https://img.shields.io/badge/Python-3-blue)
+![Django](https://img.shields.io/badge/Django-6-green)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
+![Form Handling](https://img.shields.io/badge/Form_Handling-Yes-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## 📌 Overview
+...
+
+
 Simple Django web application that allows users to submit a job application
 through a form. Submitted data is stored in a database and can be reviewed
 through the Django Admin panel.
